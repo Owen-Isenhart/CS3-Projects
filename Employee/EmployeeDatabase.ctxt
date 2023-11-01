@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EmployeeDatabase
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EmployeeDatabase\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=EmployeeDatabase()
+comment2.params=key
+comment2.target=int\ hash(int)
+comment3.params=key\ value
+comment3.target=void\ put(int,\ Employee)
+comment4.params=key
+comment4.target=Employee\ get(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

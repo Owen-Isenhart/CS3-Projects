@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DoublyMapped
+comment1.params=start
+comment1.target=DoublyMapped(java.lang.String)
+comment2.params=value\ index
+comment2.target=void\ insertAt(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ printList()
+comment4.params=
+comment4.target=void\ printBackwards()
+comment4.text=\r\n\ TO-DO\r\n\ Print\ list\ from\ the\ destination\ (end)\ to\ start\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
