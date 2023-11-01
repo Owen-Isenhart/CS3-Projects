@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tworter
+comment1.params=name\ latch\ w
+comment1.target=Tworter(java.lang.String,\ java.util.concurrent.CountDownLatch,\ boolean)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
