@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MazeSolverStack
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MazeSolverStack\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=maze
+comment1.target=MazeSolverStack(Maze)
+comment2.params=
+comment2.target=void\ makeEmpty()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=Square\ next()
+comment5.params=
+comment5.target=void\ popThis()
+comment6.params=s
+comment6.target=void\ add(Square)
+numComments=7
