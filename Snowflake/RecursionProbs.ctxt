@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=RecursionProbs
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RecursionProbs\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=double\ sumReciprocals(int)
+comment2.params=n
+comment2.target=int\ productOfEvens(int)
+comment3.params=num\ base
+comment3.target=java.lang.String\ conversion(int,\ int)
+comment4.params=a\ b
+comment4.target=int\ matchingDigits(int,\ int)
+comment5.params=nums\ neo
+comment5.target=void\ doubleUp(java.util.Stack,\ java.util.Stack)
+comment6.params=n\ s
+comment6.target=void\ printThis(int,\ java.lang.String)
+comment7.params=n
+comment7.target=void\ printNums2(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

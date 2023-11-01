@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyHashTable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyHashTable\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyHashTable()
+comment2.params=person\ phone
+comment2.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment3.params=person
+comment3.target=java.lang.Object\ get(java.lang.Object)
+comment3.text=\r\n\ perform\ a\ table\ lookup\r\n\ @param\ person\r\n\ @return\ phone\ number\ mapped\ to\ this\ person\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=return\ the\ current\ number\ of\ key/value\ pairs\ in\ the\ map
+comment5.params=person
+comment5.target=java.lang.Object\ remove(java.lang.Object)
+comment5.text=\r\n\ Remove\ supplied\ key\ (person)\r\n\ @return\ value\ mapped\ to\ supplied\ person,\ or\ null\r\n
+numComments=6

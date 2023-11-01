@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PhoneBook
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PhoneBook\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PhoneBook()
+comment2.params=person\ phone
+comment2.target=PhoneNumber\ put(Person,\ PhoneNumber)
+comment3.params=person
+comment3.target=PhoneNumber\ get(Person)
+comment3.text=\r\n\ perform\ a\ table\ lookup\r\n\ @param\ person\r\n\ @return\ phone\ number\ mapped\ to\ this\ person\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=return\ the\ current\ number\ of\ key/value\ pairs\ in\ the\ map
+comment5.params=person
+comment5.target=PhoneNumber\ remove(Person)
+comment5.text=\r\n\ Remove\ supplied\ key\ (person)\r\n\ @return\ value\ mapped\ to\ supplied\ person,\ or\ null\r\n
+numComments=6
